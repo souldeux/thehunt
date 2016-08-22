@@ -62,4 +62,4 @@ At this point, new pairings are made, chase/combat trials ensue, hunger culls fo
 
 Eventually, we hope to evolve apex Predators and apex Prey. Or find some kind of weird equilibrium. We'll see.
 
-To run: python thehunt.py and enter numbers at the prompts. 
+To run: python thehunt.py and enter numbers at the prompts. Try altering some of the “magic number” values in the script, so that different stats buff/nerf each other to different degrees. It’s fun to see how populations evolve differently based on the details you tweak.
